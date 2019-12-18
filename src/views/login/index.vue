@@ -1,15 +1,17 @@
 <template>
-  <div>
-      登录页面
+  <div class="login">
+    <span>登录页面</span>
   </div>
 </template>
 
 <script>
-export default {
-
-}
+export default {}
 </script>
 
-<style>
-
+<style lang='less'>
+.login {
+  span {
+    color: red;
+  }
+}
 </style>
