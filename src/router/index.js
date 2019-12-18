@@ -12,7 +12,7 @@ const routes = [
   },
   {
     // 主页
-    path: '/src/views/home',
+    path: '/home',
     name: 'home',
     component: Home
   }, {
